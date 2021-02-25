@@ -1,7 +1,6 @@
 `timescale 1ns / 1ps
+//Author: Sagheer Abbas Shah
 
-
-//Auhtor: Sagheer Abbas Shah
 
 module Full_Adder(sum, c_out, a, b, c_in);
 //dimensions and size
