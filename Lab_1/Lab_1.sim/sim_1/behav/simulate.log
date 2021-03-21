@@ -1,0 +1,21 @@
+Vivado Simulator 2016.2
+Time resolution is 1 ps
+Author: Sagheer Abbas Shah
+
+                   0ns  A = 00, B = 00, (A<B) = 0, (A=B) = 1, (A>B) = 0
+                  10ns  A = 00, B = 01, (A<B) = 1, (A=B) = 0, (A>B) = 0
+                  20ns  A = 00, B = 10, (A<B) = 1, (A=B) = 0, (A>B) = 0
+                  30ns  A = 00, B = 11, (A<B) = 1, (A=B) = 0, (A>B) = 0
+                  40ns  A = 01, B = 00, (A<B) = 0, (A=B) = 0, (A>B) = 1
+                  50ns  A = 01, B = 01, (A<B) = 0, (A=B) = 1, (A>B) = 0
+                  60ns  A = 01, B = 10, (A<B) = 1, (A=B) = 0, (A>B) = 0
+                  70ns  A = 01, B = 11, (A<B) = 1, (A=B) = 0, (A>B) = 0
+                  80ns  A = 10, B = 00, (A<B) = 0, (A=B) = 0, (A>B) = 1
+                  90ns  A = 10, B = 01, (A<B) = 0, (A=B) = 0, (A>B) = 1
+                 100ns  A = 10, B = 10, (A<B) = 0, (A=B) = 1, (A>B) = 0
+                 110ns  A = 10, B = 11, (A<B) = 1, (A=B) = 0, (A>B) = 0
+                 120ns  A = 11, B = 00, (A<B) = 0, (A=B) = 0, (A>B) = 1
+                 130ns  A = 11, B = 01, (A<B) = 0, (A=B) = 0, (A>B) = 1
+                 140ns  A = 11, B = 10, (A<B) = 0, (A=B) = 0, (A>B) = 1
+                 150ns  A = 11, B = 11, (A<B) = 0, (A=B) = 1, (A>B) = 0
+$finish called at time : 160 ns : File "E:/semester 7/Digital system design/Lab_1/Lab_1.srcs/sim_1/new/Comparator_2_bit_TB.v" Line 28
