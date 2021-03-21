@@ -1,0 +1,14 @@
+Vivado Simulator 2016.2
+Time resolution is 1 ps
+Author: Sagheer Abbas Shah
+
+                   0ns  A = 0000000000000000, B = 0000000000000000, Smaller = 0, Equal = 1, Greater = 0
+                  10ns  A = 0011111111110000, B = 0000000000001101, Smaller = 1, Equal = 0, Greater = 0
+                  20ns  A = 0000000000000010, B = 0011000011000000, Smaller = 0, Equal = 0, Greater = 1
+                  30ns  A = 0111000000000000, B = 0111000000000000, Smaller = 0, Equal = 1, Greater = 0
+                  40ns  A = 0000000000001010, B = 0100011000100110, Smaller = 0, Equal = 0, Greater = 1
+                  50ns  A = 1111111111111111, B = 1000000000000000, Smaller = 0, Equal = 0, Greater = 1
+                  60ns  A = 1110111111111111, B = 0011000101011111, Smaller = 0, Equal = 1, Greater = 0
+                  70ns  A = 0010101110001000, B = 1100110101001111, Smaller = 1, Equal = 0, Greater = 0
+                  80ns  A = 0111111111111110, B = 0110000000000011, Smaller = 0, Equal = 0, Greater = 1
+$finish called at time : 90 ns : File "E:/semester 7/Digital system design/LAb_2/LAb_2.srcs/sim_1/new/Comparator_16bit_TB.v" Line 21
