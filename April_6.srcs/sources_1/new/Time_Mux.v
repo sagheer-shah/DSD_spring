@@ -5,7 +5,7 @@
 //         Deepak Lal (041-18-0030)
 //         Saeed Akbar Khan (041-18-0020)             
 // 8 seven-segment displays
-// Project Name: Snake Pateern on seven segment displays
+// Project Name: Snake Pattern on seven segment displays
 //======================================================
 
 
